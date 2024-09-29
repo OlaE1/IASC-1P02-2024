@@ -1,0 +1,20 @@
+body {
+    background-color: red;
+}
+
+#firstHeader {
+    color: red;
+    font-weight: bold;
+}
+.greenText {
+    color: green;
+    font-style: italic;
+}
+ul {
+    color: green;
+    font-style: italic;
+}
+li {
+    display: inline; /* Items will be displayed on one line */
+    font-size: 30px; /* Font size set to 30px */
+}
