@@ -3,10 +3,7 @@ p {
     text-transform: uppercase;
 }
 
-
-img.absolute {
-    position: absolute;
-    top: 50px;
-    left: 50px;
+img {
+    
     border: 1px solid black;
 }
