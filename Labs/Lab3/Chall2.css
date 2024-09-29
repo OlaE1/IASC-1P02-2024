@@ -15,6 +15,6 @@ ul {
     font-style: italic;
 }
 li {
-    display: inline; /* Items will be displayed on one line */
-    font-size: 30px; /* Font size set to 30px */
+    display: inline;
+    font-size: 30px;
 }
