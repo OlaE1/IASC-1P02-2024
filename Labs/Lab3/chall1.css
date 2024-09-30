@@ -1,10 +1,11 @@
 
-
-#firstHeader{
+#firstHeader
+{
   color: red;
   font-weight: bold;
 }
-.greenText {
+.greenText
+ {
     color: green;
-    font-style: italic;
+    font-style: italic; serif;
 }
