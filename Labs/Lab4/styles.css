@@ -1,0 +1,32 @@
+p {
+  color: green;
+}
+
+
+/*Groupe Selector*/
+/*selects all div and p tags*/
+div, p{
+  color: green;
+}
+/*nested/Descendant selector*/
+/*selects all o tags that are anywhere inside div tags*/
+div p{
+  color: purple
+}
+
+/*Element.class Selector*/
+/*Selects all div tags that hav the myDiv class*/
+div .myDiv{
+  background-color: red;
+}
+
+/*Direct Child Selector*/
+/*p tags that are irect children of div*/
+div > p{
+  background-color: orange;
+}
+img{
+  padding: 30px;
+  border: 3px black solid;
+  margin: 20px;
+}
