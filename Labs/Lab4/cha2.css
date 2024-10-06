@@ -1,0 +1,28 @@
+.firstText{
+  border: 3px purple dotted;
+  text-align: center;
+  padding-top: 120px;
+}
+
+.secondText{
+  color: green;
+  text-align: center;
+  font-size: 10px;
+}
+.thirdText{
+  font-size: 30px;
+  color: orange;
+}
+.myText1{
+  color: red;
+}
+
+.fourthText{
+  text-align: right;
+  font-size: 6px;
+  color: purple;
+}
+
+.myText2{
+  color: yellow;
+}
