@@ -1,0 +1,15 @@
+p {
+  color: red;
+}
+.boxOne{
+  border: 3px black dotted;
+}
+.wholeOne{
+  background-color: green;
+}
+.lineOne{
+  color: darkgreen;
+}
+.colorDiff{
+  color: purple;
+}
