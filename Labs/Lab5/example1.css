@@ -1,19 +1,23 @@
 body{
   color: white;
-  background-color: white;
+  height: 650px;
   margin: 0;
-  padding: 0;
+
+
+}
+.wrapper{
+  background-color: white;
 }
 
-
 .header{
+  margin: 0;
   height: 50px;
   text-align: center;
   background-color: red;
 }
 
 .leftbody{
-  height: 570px;
+  height: 550px;
   background-color: green;
 }
 
