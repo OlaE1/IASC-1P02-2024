@@ -1,0 +1,40 @@
+body{
+  color: red;
+  background-color: black;
+}
+
+.wrapper{
+  width: 800px;
+  background-color: white;
+  margin: 0 auto;
+}
+
+.header{
+  height: 50px;
+  text-align: center;
+  background-color: blue;
+  padding: 10px;
+}
+
+.leftbody{
+  height: 1000px;
+  width: 200px;
+  background-color: yellow;
+  float: left;
+}
+
+.rightbody{
+  height: 1000px;
+  width: 600px;
+  background-color: pink;
+  float: left;
+}
+
+.footer{
+  height: 50px;
+  text-align: center;
+  background-color: green;
+  clear: both;
+  padding: 10px;
+
+}
