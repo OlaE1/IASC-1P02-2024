@@ -1,0 +1,44 @@
+body{
+  color: black;
+  background-color: green;
+  margin: 0;
+
+}
+
+.wrapper{
+
+  width: 800px;
+  margin: 0 auto;
+}
+
+.header{
+  height: 70px;
+  text-align: center;
+  background-color: red;
+
+}
+
+.leftbody{
+  height: 70px;
+  width: 200px;
+  background-color: pink;
+  float: left;
+}
+
+.rightbody{
+  height: 70px;
+  width: 600px;
+  background-color: orange;
+  float: left;
+}
+
+.mid{
+  height: 600px;
+  background-color: blue;
+  float: both;
+}
+
+.bott{
+  height: 50px;
+  background-color: yellow;
+}
