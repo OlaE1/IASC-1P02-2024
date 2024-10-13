@@ -1,0 +1,25 @@
+body{
+  color: white;
+  background-color: white;
+  margin: 0;
+  padding: 0;
+}
+
+
+.header{
+  height: 50px;
+  text-align: center;
+  background-color: red;
+}
+
+.leftbody{
+  height: 570px;
+  background-color: green;
+}
+
+
+.footer{
+  height: 50px;
+  background-color: blue;
+
+}
