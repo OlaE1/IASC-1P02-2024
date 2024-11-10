@@ -1,4 +1,4 @@
-document.write("<p>Hello World!</p>");
+document.write("Hello World!");
 
 function changeText(){
 document.getElementById("initial").innerHTML = "Replaced the text";
