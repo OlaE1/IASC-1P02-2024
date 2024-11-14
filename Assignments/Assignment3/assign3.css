@@ -1,0 +1,111 @@
+body{
+ background-color: lightblue;
+  font: Arial;
+}
+
+h2{
+  font-size: 30px;
+}
+
+span{
+  font-style: bold;
+}
+
+table{
+  text-align: center;
+  background-color: lightgreen;
+  margin-left: auto;
+  margin-right: auto;
+}
+.headOne{
+  font-size: 50px;
+  font: Arial;
+  padding-left: 50px;
+
+}
+
+.headerBars{
+  margin-right: 50px;
+  margin-top: 50px;
+
+}
+
+
+.soa{
+
+  text-align: center;
+}
+
+.fall{
+  background-color: lightgreen;
+}
+.develop{
+    background-color: lightgreen;
+}
+
+.navButton{
+  margin-right: 30px;
+}
+
+
+.buttons{
+  text-align: center;
+}
+
+.navBar{
+
+}
+
+.searchBar{
+  margin-left: 200px;
+}
+
+.table{
+  text-align: center;
+}
+
+.buttonOne{
+  text-align: center;
+}
+
+.calender{
+  text-align: center;
+}
+
+.headTwo{
+  text-align: center;
+}
+
+
+
+.diffColor{
+  font-size: 20px;
+  color: black;
+}
+
+.newCal{
+  background-color: lightgreen;
+}
+.newCalone{
+  background-color: lightgreen;
+}
+
+.tableOne{
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.note{
+  background-color: pink;
+}
+
+.footerOne{
+  text-align: left;
+  background-color: lightgreen;
+
+}
+
+.footerTwo{
+  background-color: lightgreen;
+  text-align: right;
+}
