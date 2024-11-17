@@ -1,0 +1,62 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+
+<head>
+	<meta http-equiv="Content-type" content="text/html;charset=UTF-8" />
+    <meta name="description" content="Basic Page Javascript" />
+	<title>Exercise 1</title>
+	<script type="text/javascript" src="scripts.js"></script>
+
+</head>
+
+<body>
+
+    <button type="button" onclick="buttonClick()">Click Me!</button>
+    <button type="button" onclick="showTheDate()">Show the date!</button>
+    <p id="theDate">Date will go here</p>
+
+
+    <form name="myForm">
+      <label for="basicText">Cat Name</label>
+      <br/>
+      <input type="text" name="basicText" value="Enter a cats name here!"/>
+      <br/>
+      <textarea  rows="8" cols="45" id="basicTextArea">Text areas are weird! I dont recommend!</textarea>
+      <br/>
+
+      <label for="basicPass">Enter password here:</label>
+      <br/>
+      <input type="password" name="basicPass" value="12345" />
+      <br/>
+
+      <label for="radioInput">Select cat colour:</label>
+      <br/>
+      <label for="radioInput">Orange</label>
+      <input type="radio" name="radioInput" value="orange" />
+      <br/>
+      <label for="radioInput">Grey</label>
+      <input type="radio" name="radioInput" value="grey" />
+      <br/>
+      <label for="radioInput">Black</label>
+      <input type="radio" name="radioInput" value="black" />
+      <br/>
+
+      <label for="checkInput">Select cat features:</label>
+      <br/>
+      <label for="checkInput1">Stripes</label>
+      <input type="checkbox" name="checkInput1" value="stripes" />
+      <br/>
+      <label for="checkInput2">Fluffy Tail</label>
+      <input type="checkbox" name="checkInput2" value="fluffy tail" />
+      <br/>
+      <label for="checkInput3">Cuddly</label>
+      <input type="checkbox" name="checkInput3" value="cuddly" />
+      <br/>
+
+      <button type="button" onclick="formOutputs()">Log to Console</button>
+      <button type="reset" >Clear data</button>
+      
+    </form>
+</body>
+
+</html>
