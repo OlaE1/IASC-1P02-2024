@@ -1,13 +1,18 @@
 body{
   background-color: lightgray;
   font-family: sans-serif;
+  width: 80%;
 }
-
+.container{
+  width: 100%;
+  margin: 0;
+}
 .farmName{
   text-align: left;
   font-size: 90px;
   font-family: fantasy;
 }
+
 
 .logoMain{
   text-align: left;
@@ -30,4 +35,8 @@ body{
 }
 .emptyBar3{
   text-align: right;
+}
+
+.firstLinks{
+  padding: 30px;
 }
