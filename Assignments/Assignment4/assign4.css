@@ -53,10 +53,17 @@ h1{
 }
 
 .tableOne{
+
   background-color: darkblue;
 }
 
 .footerOne{
   border: 0;
-  background-color: purple;
+  background-color: orange;
+}
+
+.reviewImage{
+  text-align: left;
+  width: 600px;
+  height: 150px;
 }
