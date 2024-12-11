@@ -1,0 +1,33 @@
+body{
+  background-color: lightgray;
+  font-family: sans-serif;
+}
+
+.farmName{
+  text-align: left;
+  font-size: 90px;
+  font-family: fantasy;
+}
+
+.logoMain{
+  text-align: left;
+  width: 150px;
+  height: 150px;
+}
+
+.imagesOne{
+  text-align: center;
+  width: 30px;
+  height: 30px;
+}
+
+.emptyBar1{
+  text-align: left;
+}
+
+.emptyBar2{
+  text-align: center;
+}
+.emptyBar3{
+  text-align: right;
+}
