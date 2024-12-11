@@ -1,7 +1,13 @@
 body{
-  background-color: lightgray;
+  background-color: orange;
   font-family: sans-serif;
-  width: 80%;
+  width: 100%;
+  margin: 0;
+}
+
+h1{
+  font-size: 60px;
+  font-family: fantasy;
 }
 .container{
   width: 100%;
@@ -16,8 +22,8 @@ body{
 
 .logoMain{
   text-align: left;
-  width: 150px;
-  height: 150px;
+  width: 200px;
+  height: 200px;
 }
 
 .imagesOne{
@@ -39,4 +45,18 @@ body{
 
 .firstLinks{
   padding: 30px;
+}
+
+.fruits{
+  width: 80%;
+  height: 80%;
+}
+
+.tableOne{
+  background-color: darkblue;
+}
+
+.footerOne{
+  border: 0;
+  background-color: purple;
 }
